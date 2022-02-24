@@ -1,10 +1,3 @@
-/**
- * jQuery lightzoom v1.0.1
- * Copyright 2018
- * Contributing Author: Aleksey Savin
- * E-mail: asavin.work@yandex.ru
- */
-
  ;( function( $, window, document, undefined ) {
 
  	"use strict";
